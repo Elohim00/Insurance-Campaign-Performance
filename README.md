@@ -22,7 +22,7 @@ Through advanced segmentation, behavior analytics, and timing optimization in Po
 
 1. [🎯 Project Title & Problem Statement](#-project-title--problem-statement)  
 2. [📊 Data Description](#-data-description)  
-3. [⚙️ Methodology](#methodology)
+3. [⚙️ Methodology](#-methodology)
 4. [🧠 DAX Feature Engineering](#-dax-feature-engineering)  
 5. [📈 Key Visuals](#-key-visuals)  
 6. [🔍 Strategic Insights](#-strategic-insights)  
@@ -61,7 +61,7 @@ Uncover data-driven answers to:
 - 📁 **Source:** The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com) and included in this repository for convenience. 
 - 🔢 **Volume:** 45,211 call records  
 - 🎯 **Target Variable:** `conversion_status` (Yes/No)
-- You can download the dataset directly from  [`Here`](./MARKETING%20DATASET.csv/) folder.
+- You can download the dataset directly from  [`Here`](./[MARKETING%20DATASET.csv](https://github.com/Elohim00/Insurance-Campaign-Performance/raw/refs/heads/main/MARKETING%20DATASET.csv)/) folder.
 
 ### **Key Attributes:**
 
