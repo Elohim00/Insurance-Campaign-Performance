@@ -30,7 +30,6 @@ Through advanced segmentation, behavior analytics, and timing optimization in Po
 8. [🧰 Tools & GitHub Repository](#-tools--github-repository)  
 9. [🏁 Business Impact & Reflection](#-business-impact--reflection)  
 
----
 
 ## 🎯 Project Title & Problem Statement
 
@@ -61,7 +60,8 @@ Uncover data-driven answers to:
 - 📁 **Source:** The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com) and included in this repository for convenience. 
 - 🔢 **Volume:** 45,211 call records  
 - 🎯 **Target Variable:** `conversion_status` (Yes/No)
-- You can download the dataset directly from  [`Here`](./[MARKETING%20DATASET.csv](https://github.com/Elohim00/Insurance-Campaign-Performance/raw/refs/heads/main/MARKETING%20DATASET.csv)/) folder.
+- You can download the dataset directly from  [`Here`](./MARKETING%20DATASET.csv/) folder.
+<a href="./MARKETING%20DATASET.csv" download>📥 Download the dataset here</a>
 
 ### **Key Attributes:**
 
