@@ -153,10 +153,24 @@ Persona =
 
 ## 📊 Dashboard Highlights
 
-📌 **Executive Overview (KPIs + Summary)**
+📌 **Executive Overview (KPIs + Summary)**  
+
+ ![Insurance-Campaign-Performance](EXECUTIVE%20SUMMARY.png)
+ 
+
 📌 **Conversion Drivers by Persona**
-📌 **Channel Performance: Mobile vs Landline**
+
+ ![Insurance-Campaign-Performance](DRIVERS.png)
+ 
+
 📌 **Best Call Timing Heatmap**
+
+ ![Insurance-Campaign-Performance](TIMING.png)
+
+
+📌 **Channel Performance: Mobile vs Landline**
+
+ ![Insurance-Campaign-Performance](CHANNELS.png)
 
 ---
 
@@ -179,6 +193,9 @@ Persona =
 
 Insights:
 This group significantly outperforms all others — converting at over 23%, which is more than twice the campaign average. Their profile indicates stable income and high responsiveness. They engage best on Monday and Tuesday, during 6–15 minute calls, and typically convert within 2–3 attempts. These traits suggest decisiveness and efficiency. This persona is ideal for focused, high-priority outreach with minimal effort and high return.
+
+<img src="LINE%20CHART%20AGE%20GROUP.png" alt="Insurance-Campaign-Performance" width="600"/>
+
 
 ---
 
@@ -228,6 +245,9 @@ This segment has the lowest return on investment. Students and unemployed indivi
 # ⚙️ Operational Inefficiencies
 
 * 📱 **Mobile calls convert 8× better** than landline
+* 
+<img src="DAILY%20RATE.png" alt="Insurance-Campaign-Performance" width="600"/>
+
 * ❗ Yet, call volume was evenly split — major inefficiency
 * 📊 10% of data had **unclassified channels**, creating blind spots in targeting
 
