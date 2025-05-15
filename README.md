@@ -22,7 +22,7 @@ Through advanced segmentation, behavior analytics, and timing optimization in Po
 
 1. [🎯 Project Title & Problem Statement](#-project-title--problem-statement)  
 2. [📊 Data Description](#-data-description)  
-3. [⚙️ Methodology](#-methodology)  
+3. [⚙️ Methodology](#-methodology)
 4. [🧠 DAX Feature Engineering](#-dax-feature-engineering)  
 5. [📈 Key Visuals](#-key-visuals)  
 6. [🔍 Strategic Insights](#-strategic-insights)  
@@ -197,6 +197,7 @@ This group significantly outperforms all others — converting at over 23%, whic
 * Convert best early in month (March, May, August)
 * Suitable for nurture campaigns
 
+* 
 Insights:
 These individuals show moderate conversion rates, particularly when contacted early in the month (March, May, August stand out). They tend to require 4–6 call attempts and prefer longer conversations, indicating that while interested, they need more time and touchpoints to make decisions. They are ideal candidates for nurturing campaigns, where education and consistent engagement can lead to conversions over time.
 ---
