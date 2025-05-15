@@ -58,9 +58,10 @@ Uncover data-driven answers to:
 
 ### **Dataset Overview**
 
-- 📁 **Source:** Internal CRM – 2019 Campaign Data  
+- 📁 **Source:** The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com) and included in this repository for convenience. 
 - 🔢 **Volume:** 45,211 call records  
 - 🎯 **Target Variable:** `conversion_status` (Yes/No)
+- You can download the dataset directly from  [`Here`](./MARKETING%20DATASET.csv/) folder.
 
 ### **Key Attributes:**
 
