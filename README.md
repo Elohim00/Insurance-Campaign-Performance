@@ -61,7 +61,7 @@ Uncover data-driven answers to:
 - 🔢 **Volume:** 45,211 call records  
 - 🎯 **Target Variable:** `conversion_status` (Yes/No)
 - You can download the dataset directly from  [`Here`](./MARKETING%20DATASET.csv/)
-📥 **Download the Dataset**: [Click here](https://github.com/elohim00/insurance-campaign-performance/raw/main/data/MARKETING%20DATASET.csv)
+📥 **Download the Dataset**: [Click here](https://github.com/elohim00/insurance-campaign-performance/raw/main/data/MARKETING-DATASET.csv.csv)
 
 ### **Key Attributes:**
 
