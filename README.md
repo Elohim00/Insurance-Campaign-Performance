@@ -156,12 +156,11 @@ Persona =
 📌 **Executive Overview (KPIs + Summary)**  
 
  ![Insurance-Campaign-Performance](EXECUTIVE%20SUMMARY.png)
- 
+
 
 📌 **Conversion Drivers by Persona**
 
  ![Insurance-Campaign-Performance](DRIVERS.png)
- 
 
 📌 **Best Call Timing Heatmap**
 
@@ -194,8 +193,7 @@ Persona =
 Insights:
 This group significantly outperforms all others — converting at over 23%, which is more than twice the campaign average. Their profile indicates stable income and high responsiveness. They engage best on Monday and Tuesday, during 6–15 minute calls, and typically convert within 2–3 attempts. These traits suggest decisiveness and efficiency. This persona is ideal for focused, high-priority outreach with minimal effort and high return.
 
-<img src="LINE%20CHART%20AGE%20GROUP.png" alt="Insurance-Campaign-Performance" width="600"/>
-
+![Insurance-Campaign-Performance](LINE%20CHART%20AGE%20GROUP.png)
 
 ---
 
@@ -214,9 +212,13 @@ This group significantly outperforms all others — converting at over 23%, whic
 * Convert best early in month (March, May, August)
 * Suitable for nurture campaigns
 
-* 
+*** 
 Insights:
-These individuals show moderate conversion rates, particularly when contacted early in the month (March, May, August stand out). They tend to require 4–6 call attempts and prefer longer conversations, indicating that while interested, they need more time and touchpoints to make decisions. They are ideal candidates for nurturing campaigns, where education and consistent engagement can lead to conversions over time.
+These individuals show moderate conversion rates, particularly when contacted early in the month (March, May, August stand out). They tend to require 4–6 call attempts and prefer longer conversations, indicating that while interested, they need more time and touchpoints to make decisions. They are ideal candidates for nurturing campaigns, where education and consistent engagement can lead to conversions over time.**
+
+
+
+
 ---
 
 ### 🔻 Low-Performing Segments
@@ -240,16 +242,23 @@ These individuals show moderate conversion rates, particularly when contacted ea
 Insights:
 This segment has the lowest return on investment. Students and unemployed individuals rarely convert, with rates under 5%. Landline users account for less than 10% of conversions, despite requiring 7 or more call attempts. Outreach on Fridays also performs poorly across the board, suggesting timing fatigue. These leads result in high resource usage with minimal return, and efforts here should be minimized or rerouted to automated low-cost channels.
 
+![Insurance-Campaign-Performance](DAILY%20RATE.png)
+
+
+
+> 📉 Lowest engagement seen on Fridays, especially among landline users.
+
 ---
 
 # ⚙️ Operational Inefficiencies
 
 * 📱 **Mobile calls convert 8× better** than landline
-* 
-<img src="DAILY%20RATE.png" alt="Insurance-Campaign-Performance" width="600"/>
-
 * ❗ Yet, call volume was evenly split — major inefficiency
 * 📊 10% of data had **unclassified channels**, creating blind spots in targeting
+
+![Insurance-Campaign-Performance](CHANNEL%20PERFORMANCE.png)
+
+> ✅ Mobile clearly dominates in conversion rate — optimize budget and resources here.
 
 ---
 
@@ -260,14 +269,10 @@ This segment has the lowest return on investment. Students and unemployed indivi
 ✅ Focus: Married + Executive + Mobile + Age 25–34
 ❌ Deprioritize: Students, landline-only leads
 
----
-
 ### 📆 Timing Strategy
 
 📅 Call on **Monday/Tuesday**
 ⏱️ Target call duration: **6–15 minutes**
-
----
 
 ### 📞 Channel Optimization
 
@@ -275,14 +280,10 @@ This segment has the lowest return on investment. Students and unemployed indivi
 * Limit landline attempts
 * Invest in predictive mobile dialers
 
----
-
 ### ⏱️ Touchpoint Control
 
 * Cap follow-ups to **2–3 calls per lead**
 * Send **SMS/email nudges pre-call** to warm leads
-
----
 
 ### 🧼 Data Quality
 
