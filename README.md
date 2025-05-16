@@ -62,6 +62,7 @@ Uncover data-driven answers to:
 - 🎯 **Target Variable:** `conversion_status` (Yes/No)
 - You can download the dataset directly from  [`Here`](./MARKETING%20DATASET%202.csv/)
 
+📥 **Download Dataset:** [Click here to download CSV](https://github.com/Elohim00/Insurance-Campaign-Performance/raw/main/MARKETING%20DATASET%202.csv)
 
 
 
