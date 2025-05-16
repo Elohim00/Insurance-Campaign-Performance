@@ -390,3 +390,16 @@ Insurance-Campaign-Conversion/
 
 💬 **“Let the data tell the story—then let the story drive better decisions.”**
 
+---
+
+## 🔄 Reflections & Technical Challenges
+
+Throughout this analysis, I encountered and solved several key technical challenges:
+
+- 🧮 **Feature Engineering for Campaign Dynamics**: Calls and contact duration had nonlinear effects — I created binned groups to capture behavioral inflection points.
+- 🧹 **Data Cleaning & Standardization**: Merged multiple categorical formats (e.g., job titles, education levels) for accurate segmentation.
+- 📊 **Balancing Insight Depth vs Dashboard Performance**: Optimized heavy DAX calculations and filtered visuals to keep interactivity smooth.
+
+These challenges helped sharpen my data storytelling and dashboard optimization skills in real-world conditions.
+
+
