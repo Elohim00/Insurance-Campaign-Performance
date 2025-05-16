@@ -60,10 +60,7 @@ Uncover data-driven answers to:
 - 📁 **Source:** The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com) and included in this repository for convenience. 
 - 🔢 **Volume:** 45,211 call records  
 - 🎯 **Target Variable:** `conversion_status` (Yes/No)
-- You can download the dataset directly from  [`Here`](./MARKETING%20DATASET%202.csv/)
-
-📥 **Download Dataset:** [Click here to download CSV](https://github.com/Elohim00/Insurance-Campaign-Performance/raw/main/MARKETING%20DATASET%202.csv)
-
+- You can download the dataset directly from  [`Here`](./MARKETING%20DATASET%20(2).csv/)
 
 
 
