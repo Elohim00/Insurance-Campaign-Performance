@@ -367,7 +367,8 @@ Insurance-Campaign-Conversion/
 │   └── sample-marketing-data.csv
 ```
 
-👉 **GitHub Repo:** \[Insert Your Link Here]
+👉 **GitHub Repo:** [View the full project on GitHub](https://github.com/Elohim00/Insurance-Campaign-Performance)
+
 
 ---
 
